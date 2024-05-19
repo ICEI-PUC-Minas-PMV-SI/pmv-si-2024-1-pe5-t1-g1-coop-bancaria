@@ -24,7 +24,7 @@
 **Na terceira parte do projeto** configurou o Zabbix, uma ferramenta de monitoramento de rede, em um servidor local. No entanto, encontrou obstáculos ou problemas durante o processo de configuração. Também foi responsável pela entrega da documentação e pela criação da Classroom no GitHub na terceira etapa.
 
 
-## Integrante Gina Rocha: 
+## Integrante: Gina Rocha
 
 **Na Primeira parte do projeto** foi responsável por criar uma filial, neste caso a Sede (Barbacena), utilizando o Cisco Packet Tracer para simular e configurar a rede necessária para essa filial, o que inclui a configuração de roteadores, switches, e outros dispositivos de rede. Também foi responsável pelo  preenchimento das planilhas de equipamentos,  além da entrega da documentação da Primeira etapa.
 
@@ -46,7 +46,7 @@ Para aprendizado, criou também uma máquina no Virtual Box, configurou o Zabbix
 
 
 
-##  Integrante Salomão André Gomes Lobato:
+##  Integrante: Salomão André Gomes Lobato:
 
 **Na Primeira parte do projeto** foi responsável por criar uma filial, neste caso a filial 3 (Carandaí), utilizando o Cisco Packet Tracer para simular e configurar a rede necessária para essa filial, o que inclui a configuração de roteadores, switches, e outros dispositivos de rede. 
 
