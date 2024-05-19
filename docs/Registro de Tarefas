@@ -1,1 +1,6 @@
+Na primeira parte do projeto foi responsável por criar uma filial, neste caso a  Filial 2 (Antonio Carlos), utilizando o Cisco Packet Tracer para simular e configurar a rede necessária para essa filial, o que inclui a configuração de roteadores, switches, e outros dispositivos de rede. 
+
+Na segunda parte do projeto foi responsável pela configuração do servidor de AD e servidor de Email utlizando o Windows Server 2019 instalado na máquina virtual VMBox.
+
+Na terceira parte do projeto juntamente com o Bryon e Salomão, foi responsável por criar um servidor Zabbix na máquina virtual VMBox a fim de monitorar os servidores de serviço de AD, DNS, DHCP ou Email. Criou o servidor Zabbix na VMBox para conectar ao servidor de AD e Email, criado no Window Server 2019 na VMBox, mas não foi possível que o servidor Zabbix monitorasse o servidor de AD e Email, devido a dificuldades na configuraração do serviço de SNMP.
 
