@@ -43,3 +43,10 @@
 Para isso, ela criou uma instância onde configurou o Zabbix e como teste inicial, ela monitorou o tráfego de rede da instância(M1).Após isso, ela configurou a instância que possui o Servidor Web instalado(M2), gerou uma palavra communit e fez a conexão desta instância(M2) com a máquina onde está configurado o Zabbix(M1), através do IP público e da palavra communit de M2. Desta forma, realizou um novo teste o qual monitorou o tráfego de rede de M2 dentro de M1.
 
 Para aprendizado, criou também uma máquina no Virtual Box, configurou o Zabbix nela e como teste, capturou o tráfego de rede da máquina particular local onde está instalado o Virtual Box.Para realizar tais tarefas, Gina teve o apoio do Salomão em alguns pontos de dúvidas e também ajudou a Ana Paula a fazer as etapas descritas acima em seu ambiente local e na AWS com o Servidor de E-mail.
+
+## Participante: Isabela Martins de Carvalho Pereira:
+*Na primeira parte do projeto* foi responsável pelo gerenciamento de atividades na plataforma ClickUp, e de criar uma nova filial, denominada Filial 5 (Ressaquinha), utilizando o Cisco Packet Tracer para simular e configurar a rede necessária para essa filial, o que inclui a configuração de roteadores, switches, e outros dispositivos de rede, Além disso, ajudou na correção das conexões entre os dispositivos de outras filiais.
+
+*Na segunda parte do projeto*, ficou responsável pela criação de servidor de banco de dados na AWS com RDS. Primeiramente, configurou um MariaDB para aprendizado e teste, e em seguida MySQL (escolhido para o projeto). Tentou realizar a conexão com o banco MySQL criado na AWS, porém sem sucesso. Também foi responsável pela entrega da documentação da segunda etapa.
+
+*Na terceira parte do projeto*, configurou a documentação.
