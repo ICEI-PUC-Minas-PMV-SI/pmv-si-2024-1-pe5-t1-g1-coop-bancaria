@@ -22,3 +22,12 @@
 
 **Na terceira parte do projeto** configurou o Zabbix, uma ferramenta de monitoramento de rede, em um servidor local. No entanto, encontrou obstáculos ou problemas durante o processo de configuração. Também foi responsável pela entrega da documentação e pela criação da Classroom no GitHub na terceira etapa.
 
+
+## Participante Salomão André Gomes Lobato:
+
+**Na Primeira parte do projeto** foi responsável por criar uma filial, neste caso a filial 3 (Carandaí), utilizando o Cisco Packet Tracer para simular e configurar a rede necessária para essa filial, o que inclui a configuração de roteadores, switches, e outros dispositivos de rede. 
+
+**Na segunda parte do projeto** ficou responsável pela criação de um servidor DHCP que foi feito via Virtualbox. Além de configurar o servidor, dedicou tempo aos testes minuciosos, simulando diversos cenários com outras máquinas virtuais como clientes do DHCP. Seu esforço não se limitou apenas à configuração técnica; também contribuiu gravando um vídeo detalhado para demonstrar o funcionamento do projeto, compartilhando através do canal no YouTube.
+
+
+**Na terceira parte do projeto** realizou a configuração do Zabbix Appliance,mais uma vez utilizando o VirtualBox como plataforma de virtualização. Além de configurar o Zabbix, desempenhou um papel fundamental no monitoramento contínuo da máquina host e do servidor DHCP previamente criado. Sua expertise foi evidente ao apresentar o tráfego dos pacotes SNMP usando o Wireshark, fornecendo insights valiosos para otimizar o desempenho da rede. Além disso, sua disposição para ajudar e orientar os outros membros do grupo durante os testes no Zabbix foi fundamental para o sucesso global do projeto.
