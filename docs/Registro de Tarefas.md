@@ -31,3 +31,15 @@
 
 
 **Na terceira parte do projeto** realizou a configuração do Zabbix Appliance,mais uma vez utilizando o VirtualBox como plataforma de virtualização. Além de configurar o Zabbix, desempenhou um papel fundamental no monitoramento contínuo da máquina host e do servidor DHCP previamente criado. Sua expertise foi evidente ao apresentar o tráfego dos pacotes SNMP usando o Wireshark, fornecendo insights valiosos para otimizar o desempenho da rede. Além disso, sua disposição para ajudar e orientar os outros membros do grupo durante os testes no Zabbix foi fundamental para o sucesso global do projeto.
+
+## Participante Gina Rocha: 
+
+*Na Primeira parte do projeto* foi responsável por criar uma filial, neste caso a Sede (Barbacena), utilizando o Cisco Packet Tracer para simular e configurar a rede necessária para essa filial, o que inclui a configuração de roteadores, switches, e outros dispositivos de rede. Também foi responsável pelo  preenchimento das planilhas de equipamentos,  além da entrega da documentação da Primeira etapa.
+
+*Na segunda parte do projeto* ficou responsável por configurar o Servidor web é a criação de um canal no youtube que posteriormente fez upload da sua demonstração do projeto.
+
+*Na terceira parte do projeto* ela realizou o teste utilizando o Zabbix em uma máquina virtual na AWS(M1) e conectar a máquina virtual que foi criada na Etapa 2, a qual possui o Servidor Web com o ambiente configurado para receber aplicações em PHP e banco de dados MySQL(M2). 
+
+Para isso, ela criou uma instância onde configurou o Zabbix e como teste inicial, ela monitorou o tráfego de rede da instância(M1).Após isso, ela configurou a instância que possui o Servidor Web instalado(M2), gerou uma palavra communit e fez a conexão desta instância(M2) com a máquina onde está configurado o Zabbix(M1), através do IP público e da palavra communit de M2. Desta forma, realizou um novo teste o qual monitorou o tráfego de rede de M2 dentro de M1.
+
+Para aprendizado, criou também uma máquina no Virtual Box, configurou o Zabbix nela e como teste, capturou o tráfego de rede da máquina particular local onde está instalado o Virtual Box.Para realizar tais tarefas, Gina teve o apoio do Salomão em alguns pontos de dúvidas e também ajudou a Ana Paula a fazer as etapas descritas acima em seu ambiente local e na AWS com o Servidor de E-mail.
