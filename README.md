@@ -21,6 +21,6 @@ Neste projeto de estrutura de rede, será implantada uma solução na Cooperativ
 
 ## Orientador
 
-* Fabio Leandro Rodrigues Cordeiro
+* Fábio Leandro Rodrigues Cordeiro
 
 
