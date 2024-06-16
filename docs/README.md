@@ -28,7 +28,7 @@
 
 **Na terceira parte do projeto**, configurou o Zabbix, uma ferramenta de monitoramento de rede, em um servidor local. No entanto, encontrou obstáculos ou problemas durante o processo de configuração. Também foi responsável pela entrega da documentação e pela criação da Classroom no GitHub na terceira etapa.
 
-**Na quarta parte do projeto**, foi responsável por configurar o documento no Overleaf. 
+**Na quarta parte do projeto**, foi responsável por configurar o documento no Overleaf e a criação da página "Home" do projeto, pelo WordPress.
 
 
 ## Integrante: Gina Rocha
@@ -43,7 +43,7 @@ Para isso, ela criou uma instância onde configurou o Zabbix e como teste inicia
 
 Para aprendizado, criou também uma máquina no Virtual Box, configurou o Zabbix nela e como teste, capturou o tráfego de rede da máquina particular local onde está instalado o Virtual Box.Para realizar tais tarefas, Gina teve o apoio do Salomão em alguns pontos de dúvidas e também ajudou a Ana Paula a fazer as etapas descritas acima em seu ambiente local e na AWS com o Servidor de E-mail.
 
-**Na quarta parte do projeto**, ela redigiu a Política de Segurança e a Cartilha da CredUai.
+**Na quarta parte do projeto**, ela redigiu a Política de Segurança e a Cartilha da CredUai. Configurou o Back-end da aplicação possibilitando a sua utilização.
 
 
 ##  Integrante: Isabela Martins de Carvalho Pereira:
@@ -67,7 +67,7 @@ Para aprendizado, criou também uma máquina no Virtual Box, configurou o Zabbix
 
 **Na terceira parte do projeto**, realizou a configuração do Zabbix Appliance,mais uma vez utilizando o VirtualBox como plataforma de virtualização. Além de configurar o Zabbix, desempenhou um papel fundamental no monitoramento contínuo da máquina host e do servidor DHCP previamente criado. Sua expertise foi evidente ao apresentar o tráfego dos pacotes SNMP usando o Wireshark, fornecendo insights valiosos para otimizar o desempenho da rede. Além disso, sua disposição para ajudar e orientar os outros membros do grupo durante os testes no Zabbix foi fundamental para o sucesso global do projeto.
 
-**Na quarta parte do projeto**, foi responsável por configurar o documento no Overleaf e auxiliar na elaboração das partes relacionadas à Política de Segurança.
+**Na quarta parte do projeto**, foi responsável por configurar o documento no Overleaf e auxiliar na elaboração das partes relacionadas à Política de Segurança é o envio da etapa.
 
 
 
