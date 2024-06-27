@@ -72,4 +72,4 @@
 
 **Na quarta parte do projeto**, configurou o documento no Overleaf e ajudou na elaboração das partes relacionadas à Política de Segurança e envio da etapa.
 
-**Na quinta parte do projeto**, foi responsável por alterar configurações no documento do Overleaf.
+**Na quinta parte do projeto** teve como responsabilidade efetuar ajustes nas configurações do documento no Overleaf.
